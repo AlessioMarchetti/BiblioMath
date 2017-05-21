@@ -1,0 +1,1 @@
+insert into comments (id_book, comm, aut) values ({id_book}, "{comm}", "{aut}");

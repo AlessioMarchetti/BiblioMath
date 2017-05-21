@@ -1,0 +1,1 @@
+insert into cat_ref (id_book, id_cat) values ({id_book}, {id_cat});

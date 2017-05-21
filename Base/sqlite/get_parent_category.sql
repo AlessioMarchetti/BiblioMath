@@ -1,0 +1,1 @@
+select id, name, id_parent from categories where id = {id_parent};

@@ -1,0 +1,29 @@
+When typing multiple arguments (such as when you are typing the categories of a book), make sure you write them SEPARATED BY A COMMA (',') WITH NO BLANK SPACES.
+
+ins ARG     insert a new element.
+            ARG could be one of these:
+                comm    -> comment
+                book    -> book
+                cat     -> category
+                aut     -> author
+
+print ARG   print the elements
+            ARG could be one of these:
+                comm    -> comment
+                book    -> book
+                cat     -> category
+                aut     -> author
+
+gen         generate the HTML files
+
+upload      upload the generated files and the DB
+
+download    download the DB
+
+create NAME create an empty db with name NAME
+
+use FILE    use the DB specified in FILE
+
+exec COM    execute the sqlite command COM
+
+quit        exit

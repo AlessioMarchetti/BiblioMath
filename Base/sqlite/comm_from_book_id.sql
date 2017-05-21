@@ -1,0 +1,1 @@
+select id, comm, aut from comments where id_book = {id_book};

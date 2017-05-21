@@ -1,0 +1,1 @@
+insert into aut_ref (id_book, id_aut) values ({id_book}, {id_aut});
